@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LABA4_ANIMATION</string>
+    <string name="ak47">AK47</string>
+    <string name="casc">Casc</string>
+    <string name="animation_time">Animation time</string>
+    <string name="async">Async</string>
+    <string name="sync">Sync</string>
+</resources>
